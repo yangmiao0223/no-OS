@@ -1,0 +1,6 @@
+<map id="drivers/gyro/adxrs290/adxrs290.h" name="drivers/gyro/adxrs290/adxrs290.h">
+<area shape="rect" id="node1" title="Implementation of ADXRS290 Driver." alt="" coords="175,5,339,47"/>
+<area shape="rect" id="node2" href="$iio__adxrs290_8c.html" title="Implementation of ADXRS290 iio." alt="" coords="5,95,151,136"/>
+<area shape="rect" id="node3" href="$adxrs290_8c.html" title="Implementation of ADXRS290 Driver." alt="" coords="175,95,339,136"/>
+<area shape="rect" id="node4" href="$adxrs290-pmdz_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="363,95,542,136"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="drivers/gyro/adxrs290/adxrs290.c" name="drivers/gyro/adxrs290/adxrs290.c">
+<area shape="rect" id="node1" title="Implementation of ADXRS290 Driver." alt="" coords="105,5,269,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,76,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="269,244,340,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="152,95,223,121"/>
+<area shape="rect" id="node5" href="$error_8h.html" title="Error codes definition." alt="" coords="247,95,311,121"/>
+<area shape="rect" id="node7" href="$adxrs290_8h.html" title="Implementation of ADXRS290 Driver." alt="" coords="336,95,431,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="185,169,253,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="386,244,469,271"/>
+<area shape="rect" id="node9" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="278,169,331,196"/>
+<area shape="rect" id="node10" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="356,169,411,196"/>
+</map>

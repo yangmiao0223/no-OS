@@ -1,0 +1,8 @@
+<map id="pwm_enable" name="pwm_enable">
+<area shape="rect" id="node1" title="Enable PWM generator device." alt="" coords="497,81,603,108"/>
+<area shape="rect" id="node2" href="$ad469x_8h.html#abda6b9d65e0b6e2a82390a09a8f08eb8" title="Exit conversion mode. Enter register mode to read/write registers." alt="" coords="225,5,449,32"/>
+<area shape="rect" id="node3" href="$ad469x_8h.html#a92cd606b28fd68b3a2c52717552818df" title="Read from device. Enter register mode to read/write registers." alt="" coords="266,56,409,83"/>
+<area shape="rect" id="node5" href="$adaq7980_8h.html#a0db55892937414f2d5dc84a14fd89677" title=" " alt="" coords="27,132,156,159"/>
+<area shape="rect" id="node6" href="$axi__pwm_8c.html#a4a14f4cf25e0304274b72fbcfabd567f" title="Initialize the pwm axi generator and the handler associated with it." alt="" coords="296,157,379,184"/>
+<area shape="rect" id="node4" href="$ad469x_8h.html#ad920a4e940cf6f64bfa4613e02a598fe" title="Read from device when converter has the channel sequencer activated. Enter register mode to read/writ..." alt="" coords="5,56,177,83"/>
+</map>

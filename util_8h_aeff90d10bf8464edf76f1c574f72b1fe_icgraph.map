@@ -1,0 +1,6 @@
+<map id="field_prep" name="field_prep">
+<area shape="rect" id="node1" title=" " alt="" coords="247,56,333,83"/>
+<area shape="rect" id="node2" href="$ad7606_8h.html#a805c34e6e494c53ab140d91581f9e59e" title="Set the device config register." alt="" coords="31,5,173,32"/>
+<area shape="rect" id="node3" href="$ad7606_8h.html#a1417edc65b2d70eef23d8cb08b39f915" title="Set the device digital diagnostics configuration." alt="" coords="12,56,192,83"/>
+<area shape="rect" id="node4" href="$ad7606_8h.html#abc4948edb50ed62de9ab4a96119360d9" title="Set the oversampling ratio." alt="" coords="5,107,199,133"/>
+</map>

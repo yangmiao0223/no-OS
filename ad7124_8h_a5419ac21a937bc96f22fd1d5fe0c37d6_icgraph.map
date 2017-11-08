@@ -1,0 +1,11 @@
+<map id="ad7124_read_register" name="ad7124_read_register">
+<area shape="rect" id="node1" title="Reads the value of the specified register only when the device is ready to accept user requests...." alt="" coords="757,138,920,165"/>
+<area shape="rect" id="node2" href="$ad7124_8h.html#a3abb8a30f36fae5240e941190d82fe97" title="Reads the conversion result from the device." alt="" coords="108,8,251,34"/>
+<area shape="rect" id="node3" href="$ad7124-4sdz_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,84,60,110"/>
+<area shape="rect" id="node4" href="$ad7124_8h.html#ad3a4ed97b6db61e8f13653f10cc5d8d5" title="Waits until a new conversion result is available." alt="" coords="299,110,467,151"/>
+<area shape="rect" id="node5" href="$ad7124_8h.html#a20e8bb5e5a602c5e2fdf1d512de8d8ee" title="Waits until the device can accept read and write user actions." alt="" coords="534,160,690,202"/>
+<area shape="rect" id="node8" href="$ad7124_8h.html#a444985647470311a6aedde23deac9655" title="Waits until the device finishes the power&#45;on reset operation." alt="" coords="515,226,709,253"/>
+<area shape="rect" id="node6" href="$ad7124_8h.html#a803b466e1863f153e167ad3a9748ff6c" title="Writes the value of the specified register only when the device is ready to accept user requests...." alt="" coords="299,176,466,202"/>
+<area shape="rect" id="node7" href="$ad7124_8h.html#ab8ab34afc0cfb9795819ca9f2f886ee7" title="Initializes the AD7124." alt="" coords="123,176,236,202"/>
+<area shape="rect" id="node9" href="$ad7124_8h.html#abb99194477f1f288b13842d42dfb60bd" title="Resets the device." alt="" coords="327,226,438,253"/>
+</map>

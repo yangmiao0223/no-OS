@@ -1,0 +1,5 @@
+<map id="pwm_set_duty_cycle" name="pwm_set_duty_cycle">
+<area shape="rect" id="node1" title="Set duty cycle of PWM generator device." alt="" coords="313,5,472,32"/>
+<area shape="rect" id="node2" href="$axi__pwm_8c.html#a4a14f4cf25e0304274b72fbcfabd567f" title="Initialize the pwm axi generator and the handler associated with it." alt="" coords="183,5,265,32"/>
+<area shape="rect" id="node3" href="$adaq7980_8h.html#a0db55892937414f2d5dc84a14fd89677" title=" " alt="" coords="5,5,135,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ad5933_get_register_value" name="ad5933_get_register_value">
+<area shape="rect" id="node1" title="Reads the value of a register." alt="" coords="268,89,423,131"/>
+<area shape="rect" id="node2" href="$ad5933_8h.html#a58b3907982945d725fa5c40b8b548869" title="Reads the real and the imaginary data and calculates the Gain Factor." alt="" coords="27,5,198,47"/>
+<area shape="rect" id="node3" href="$ad5933_8h.html#af7159e3dc1e00ce2e03c2943aad4aa34" title="Reads the real and the imaginary data and calculates the Impedance." alt="" coords="5,71,220,98"/>
+<area shape="rect" id="node4" href="$ad5933_8h.html#a124cb2de4fbcb440c16006c4ca8e233c" title="Reads the temperature from the part and returns the data in degrees Celsius." alt="" coords="19,122,206,149"/>
+<area shape="rect" id="node5" href="$ad5933_8h.html#a170de42560e2a346b6e90b55094f1180" title="Starts the sweep operation." alt="" coords="35,173,191,199"/>
+</map>

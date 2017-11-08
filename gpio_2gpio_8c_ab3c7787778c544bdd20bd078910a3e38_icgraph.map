@@ -1,0 +1,4 @@
+<map id="gpio_get" name="gpio_get">
+<area shape="rect" id="node1" title="Obtain the GPIO decriptor." alt="" coords="192,5,271,32"/>
+<area shape="rect" id="node2" href="$platform_2aducm3029_2gpio_8c.html#aaf98a77ef8d6aa50fd20baa42bd2381c" title="Get the value of an optional GPIO." alt="" coords="5,5,144,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="drivers/platform/aducm3029/uart.c" name="drivers/platform/aducm3029/uart.c">
+<area shape="rect" id="node1" title="Implementation of UART driver for ADuCM302x." alt="" coords="257,5,464,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,172,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="196,95,267,121"/>
+<area shape="rect" id="node4" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="291,95,351,121"/>
+<area shape="rect" id="node6" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="375,95,426,121"/>
+<area shape="rect" id="node7" href="$aducm3029_2uart__extra_8h.html" title="Header file of UART driver for ADuCM302x." alt="" coords="530,95,631,121"/>
+<area shape="rect" id="node11" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="451,95,505,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="365,169,436,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="461,169,543,196"/>
+<area shape="rect" id="node9" href="$error_8h.html" title="Error codes definition." alt="" coords="567,169,631,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="565,244,633,271"/>
+</map>

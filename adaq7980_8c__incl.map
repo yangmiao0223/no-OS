@@ -1,0 +1,18 @@
+<map id="drivers/adc/adaq7980/adaq7980.c" name="drivers/adc/adaq7980/adaq7980.c">
+<area shape="rect" id="node1" title="Implementation adaq7980 Driver." alt="" coords="124,5,287,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,167,121"/>
+<area shape="rect" id="node4" href="$adaq7980_8h.html" title=" " alt="" coords="243,95,341,121"/>
+<area shape="rect" id="node14" href="$error_8h.html" title="Error codes definition." alt="" coords="483,95,547,121"/>
+<area shape="rect" id="node16" href="$delay_8h.html" title="Header file of Delay functions." alt="" coords="50,169,118,196"/>
+<area shape="rect" id="node5" href="$spi__engine_8h.html" title=" " alt="" coords="240,169,344,196"/>
+<area shape="rect" id="node12" href="$pwm_8h.html" title="Header file of PWM Interface." alt="" coords="513,319,580,345"/>
+<area shape="rect" id="node13" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="106,244,169,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="233,393,303,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="245,244,339,271"/>
+<area shape="rect" id="node8" href="$spi__engine__private_8h.html" title=" " alt="" coords="364,244,521,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="435,393,517,420"/>
+<area shape="rect" id="node10" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="305,319,359,345"/>
+<area shape="rect" id="node11" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="383,319,438,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="597,169,665,196"/>
+</map>
